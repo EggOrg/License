@@ -1,4 +1,4 @@
-E E G License version 1
+E E G License version 2
 - License authored by the EggOrg organization
 
 The author(s) of this software are allowing its users to use and edit this software in accordance with the E E G license, and are allowing "full E E G open-source use" of this software in accordance with the E E G rules and guidelines, meaning:
@@ -14,4 +14,5 @@ Change parts of this software without direct permission from the author(s).
 Distribute a copy of this E E G-licensed open source software for a profit.
 Edit this software and distribute without renaming or giving credit to the original owner.
 Illegally modify this software.
-Copy and rename (or "skid") this software.
+Add malware or redistribute with malicious intent.
+Make "hypocrite commits" or intentionally add bugs and backdoors for personal purposes.
