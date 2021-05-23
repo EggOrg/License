@@ -1,4 +1,4 @@
----+> E E G License version 2 authored by the Egg organization <+---
+---+> E E G License version 3Dev authored by the Egg organization <+---
 
 The author(s) of this software are allowing its users to use and edit this software in accordance with the E E G license, and are allowing "full E E G open-source use" of this software in accordance with the E E G rules and guidelines, meaning:
 
@@ -15,3 +15,4 @@ Edit this software and distribute without renaming and giving credit to the orig
 Modify the software (or game) in a way that violates its original rules or intentions.
 Add malware or redistribute with malicious intent.
 Make "hypocrite commits" or intentionally add bugs and backdoors for personal purposes.
+Allow bots to fork this repository without direct permission from the author(s).
